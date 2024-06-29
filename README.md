@@ -1,2 +1,2 @@
-# LELIN.gtithub.io
+# lelin7.github.io
 it is an duplicate
